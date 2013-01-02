@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: No Piwik for me
- * Plugin URI: http://blog.ppfeufer.de/wordpress-plugin-no-piwik-for-me/
+ * Plugin URI: http://ppfeufer.de/wordpress-plugin/no-piwik-for-me/
  * Description: Erstellt den Shortcode <code>[no_piwik]</code> um die nutzerbezogene Deaktivierung von Piwik zu ermöglichen.
- * Version: 1.0
+ * Version: 1.1
  * Author: H.-Peter Pfeufer
  * Author URI: http://ppfeufer.de
  */
