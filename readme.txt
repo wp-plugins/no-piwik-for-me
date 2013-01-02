@@ -1,13 +1,13 @@
 === No Piwik for me ===
 Contributors: ppfeufer
-Donate link: 
+Donate link:
 Tags: piwik, analytics
 Requires at least: 3.2
-Tested up to: 3.4
-Stable tag: 1.0
+Tested up to: 3.5
+Stable tag: 1.1
 License: GPLv2
 
-Erstellt den Shortcode <code>[no_piwik]</code> um die nutzerbezogene Deaktivierung von Piwik zu ermöglichen. 
+Erstellt den Shortcode <code>[no_piwik]</code> um die nutzerbezogene Deaktivierung von Piwik zu ermöglichen.
 
 == Description ==
 
@@ -32,6 +32,9 @@ Der Shortcode <code>[no_piwik]</code> kann dann ganz einfach im Impressum unter 
 Keine.
 
 == Changelog ==
+= 1.1 =
+* (02. 01. 2013)
+* Ready for WordPress 3.5
 
 = 1.0 =
 * (09. 05. 2012)
