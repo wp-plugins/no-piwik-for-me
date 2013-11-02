@@ -3,8 +3,8 @@ Contributors: ppfeufer
 Donate link:
 Tags: piwik, analytics
 Requires at least: 3.2
-Tested up to: 3.5
-Stable tag: 1.1
+Tested up to: 3.8-alpha
+Stable tag: 1.2
 License: GPLv2
 
 Erstellt den Shortcode <code>[no_piwik]</code> um die nutzerbezogene Deaktivierung von Piwik zu ermöglichen.
@@ -32,6 +32,10 @@ Der Shortcode <code>[no_piwik]</code> kann dann ganz einfach im Impressum unter 
 Keine.
 
 == Changelog ==
+= 1.2 =
+* (02. November 2012)
+* Tested up to WordPress 3.8-alpha
+
 = 1.1 =
 * (02. 01. 2013)
 * Ready for WordPress 3.5
